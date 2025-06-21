@@ -24,7 +24,7 @@ header {
 }
 
 header .brand img {
-    max-width: 160px; /* Adjust size as needed */
+    max-width: 200px; /* Adjust size as needed */
     margin-bottom: 10px;
 }
 
@@ -63,7 +63,7 @@ header p {
 #main-nav {
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
+    padding: 16px 0;
     text-align: center;
     position: fixed;
     top: 0;
